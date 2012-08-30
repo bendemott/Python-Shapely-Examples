@@ -1,0 +1,4 @@
+Shapely is a python library that deals with geometric shape calculations.
+
+This repository contains the source to a presentation I gave in the "presentation" folder.
+Everything else is uses matplotlib or shapely or rtree in some way and you may enjoy running the scripts for fun.
